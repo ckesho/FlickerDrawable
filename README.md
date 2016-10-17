@@ -3,4 +3,4 @@ FlickerDrawable takes an android drawable resource and applies a flicker animati
 
 
 
-![alt tag](https://github.com/ckesho/FlickerDrawable/animatedgif.gif)
+![alt tag](https://github.com/ckesho/FlickerDrawable/blob/master/animatedgif.gif)
